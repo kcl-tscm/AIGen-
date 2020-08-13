@@ -1,0 +1,2 @@
+# AIGen-
+Automatic INput GEnerator
